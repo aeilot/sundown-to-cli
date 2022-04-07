@@ -1,4 +1,11 @@
-﻿Sundown
+# Author's notes
+
+`sundown-to-cli` is a Markdown parser adapted from sundown to convert Markdown documents into cli output.
+
+
+# Original README
+
+Sundown
 =======
 
 `Sundown` is a Markdown parser based on the original code of the
